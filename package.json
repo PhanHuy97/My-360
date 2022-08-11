@@ -2,7 +2,7 @@
   "name": "my-360",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://phanhuy97.github.io/My-360/",
+  "homepage": "https://phanhuy97.github.io/my-360/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
