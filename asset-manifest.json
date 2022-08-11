@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-360/static/css/main.e6a641f7.css",
+    "main.js": "/my-360/static/js/main.e1cc82d7.js",
+    "static/media/img360.jpg": "/my-360/static/media/img360.b7663c38b3a7961c4b22.jpg",
+    "static/media/hotspot.png": "/my-360/static/media/hotspot.0051db1310e8661a5452.png",
+    "index.html": "/my-360/index.html",
+    "main.e6a641f7.css.map": "/my-360/static/css/main.e6a641f7.css.map",
+    "main.e1cc82d7.js.map": "/my-360/static/js/main.e1cc82d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6a641f7.css",
+    "static/js/main.e1cc82d7.js"
+  ]
+}
